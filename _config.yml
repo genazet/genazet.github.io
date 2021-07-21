@@ -33,9 +33,9 @@ color:
 # Footer settings
 footer:
   copyright: Reformas DoubleG
-  location: Location
-  social: Around the Web
-  credits: Credits
+  location: Nos encontramos en
+  social: Nuestas Redes
+  credits: Creditos
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
