@@ -2,9 +2,9 @@
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: aseo.png
+img: aseo.jpg
 alt: image-alt
-img2: aseo2.png
+img2: aseo2.jpg
 alt2: image-alt
 project-date: April 2014
 client: Start Bootstrap
