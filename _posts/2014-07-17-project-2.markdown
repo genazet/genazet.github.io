@@ -4,8 +4,8 @@ modal-id: 2
 date: 2014-07-17
 img: ducha.jpg
 alt: image-alt
-img: ducha2.jpg
-alt: image-alt
+img2: ducha2.jpg
+alt2: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
